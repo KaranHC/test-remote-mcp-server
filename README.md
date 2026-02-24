@@ -1,1 +1,0 @@
-# test-remote-mcp-server
